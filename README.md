@@ -1,6 +1,6 @@
-# Solidna
+# Hera
 
-The project developed a core strategic cloud-based storage technology. This technology (Solidna) provides a highly reliable and dependable storage system based on a distributed object storage infrastructure. Solidna delivers high levels of performance with stability. Users can access the service through both an interoperable web API and locally using a POSIX compliant API. Part of the results of the project can be found as open source software and particular aspects of the system have been documented.
+The project developed a core strategic cloud-based storage technology. This technology (Hera) provides a highly reliable and dependable storage system based on a distributed object storage infrastructure. Solidna delivers high levels of performance with stability. Users can access the service through both an interoperable web API and locally using a POSIX compliant API. Part of the results of the project can be found as open source software and particular aspects of the system have been documented.
 
 ## Source Access
 
