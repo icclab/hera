@@ -4,4 +4,4 @@ The project developed a core strategic cloud-based storage technology. This tech
 
 ## Source Access
 
-If you would like access to the open source parts of this project, we welcome any request. If you want access [please email us](service DASH engineering AT_SYMBOL dornbirn DOT_SYMBOL zhaw DOT_SYMBOL  ch).
+If you would like access to the open source parts of this project, we welcome any request. If you want access [please email us](mailto://service-engineering@dornbirn.zhaw.ch).
